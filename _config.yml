@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedram Haeri's Homepage"
+title                    : "Pedram's Homepage"
 title_separator          : "-"
 name                     : &name "Sayed Pedram Haeri"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sayed pedram Haeri"
+  name             : "Sayed Pedram Haeri"
   avatar           : "profile.png"
   bio              : "Graduate Research Assistant <br/> Ph.D. | Clemson University <br/> Computer Science <br/> Artificial Intelligence"
   location         : "Clemson, SC, USA"
