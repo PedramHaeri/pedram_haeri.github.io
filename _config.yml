@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sayed Pedram Haeri"
   avatar           : "profile.png"
-  bio              : "Research Assistant <br/> Ph.D. | Clemson University <br/> Computer Science #<br/> AI & Data Science"
+  bio              : "Research Assistant <br/> Ph.D. | Clemson University <br/> Computer Science <br/> AI & Data Science"
   location         : "Clemson, SC, USA"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Clemson University"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1"
   email            : "mbanagar@vt.edu"
   researchgate     : "https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
