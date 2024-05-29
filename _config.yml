@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Morteza Banagar / Home"
+title                    : "Pedram Haeri's Homepage"
 title_separator          : "-"
-name                     : &name "Morteza Banagar"
+name                     : &name "Sayed Pedram Haeri"
 description              : &description "personal description"
 url                      : https://mbanagar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Morteza Banagar"
-  avatar           : "Photo1.jpg"
+  name             : "Sayed pedram Haeri"
+  avatar           : "pedram.png"
   bio              : "Qualcomm <br/> Senior Engineer <br/> Ph.D. | Virginia Tech <br/> Electrical Engineering <br/> Wireless Communications"
   location         : "San Diego, California, USA"
   employer         :
