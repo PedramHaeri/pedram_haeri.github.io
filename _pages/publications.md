@@ -17,7 +17,7 @@ Published in Information Fusion Journal, Elsevier, IF:18.6 (Q1), August 2024.
 
 **Recommended Citation:** Boroujeni, Sayed Pedram Haeri, et al. "A comprehensive survey of research towards ai-enabled unmanned aerial systems in pre-, active-, and post-wildfire management." Information Fusion (2024): 102369.
 
-**Download Paper Here:** [[PDF](http://pedramhaeri.github.io/files/Paper1.pdf)] [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9721496)]
+**Download Paper Here:** [[PDF](http://pedramhaeri.github.io/files/Paper1.pdf)] [[ScienceDirect](https://ieeexplore.ieee.org/abstract/document/9721496)]
 
 
 [2] [Age estimation based on facial images using hybrid features and particle swarm optimization](https://ieeexplore.ieee.org/abstract/document/9721496)
@@ -28,4 +28,4 @@ Published in 11th ICCKE IEEE Conference, Iran, February 2022.
 
 **Recommended Citation:** Mehrabi, Niloufar, and Sayed Pedram Haeri Boroujeni. "Age estimation based on facial images using hybrid features and particle swarm optimization." 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE). IEEE, 2021. 
 
-**Download Paper Here:** [[PDF](http://pedramhaeri.github.io/files/Paper2.pdf)] [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1566253524001477)]
+**Download Paper Here:** [[PDF](http://pedramhaeri.github.io/files/Paper2.pdf)] [[IEEE Xplore](https://www.sciencedirect.com/science/article/pii/S1566253524001477)]
