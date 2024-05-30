@@ -9,16 +9,31 @@ redirect_from:
 ---  
 Hello there, Welcome to my personal website!
 
-I am currently a 2nd year Ph.D. student and a Research Assistant in [Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in [Artificial Intelligence and Data Science](https://ebs.aydin.edu.tr/index.iau?Page=BolumGenelBilgiler&BK=1197&ln=tr) from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering.
+I am currently a 2nd year Ph.D. student and a Research Assistant in [Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html), supervised by [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in [Artificial Intelligence and Data Science](https://ebs.aydin.edu.tr/index.iau?Page=BolumGenelBilgiler&BK=1197&ln=tr) from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering.
 
 
 Research Interests
 ======
-1. 5G NR
-2. Channel Modeling
-3. Wireless Communications
-4. UAV Communications
-5. Stochastic Geometry
+1. Artificial Intelligence
+2. Computer Vision
+3. Image Processing
+4. Data Analysis
+5. Machine Learning
+6. Deep Learning
+7. Optimization
+8. Bioinformatics
+
+
+Applications
+======
+1. Autonomous Vehicles (AVs)
+2. Unmanned Aerial Vehicles (UAVs)
+3. Wildfire Detection
+4. Wildfire Monitoring
+5. Cooperative Perception
+6. Traffic Analysis
+7. Robotics
+
 
 News
 ======
