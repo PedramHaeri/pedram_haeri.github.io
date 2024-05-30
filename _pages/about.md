@@ -28,8 +28,8 @@ Applications
 ======
 1. Autonomous Vehicles (AVs)
 2. Unmanned Aerial Vehicles (UAVs)
-3. Wildfire Detection
-4. Wildfire Monitoring
+3. Wildfire Detection & Monitoring
+4. Wildfire Management
 5. Cooperative Perception
 6. Traffic Analysis
 7. Robotics
