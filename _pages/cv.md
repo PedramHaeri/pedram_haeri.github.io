@@ -20,7 +20,7 @@ Education
 
 **Instanbul Aydin University**, Istanbul, Turkey (Feb 2020 -- Feb 2022)
 
-*Master of Science (M.Sc.) in Artificial Intelligence and Data Science* -- Research Assistant*
+*Master of Science (M.Sc.) in Artificial Intelligence and Data Science -- Research Assistant*
 * Research Works: Machine Learning Techniques including Data Clustering and Gene Selection in The Filed of Bioinformatics and Image Processing.
 * Advisor: [Dr. Elnaz Pashaei](https://scholar.google.com/citations?user=Kt2E9GMAAAAJ&hl=en)
 * GPA: 3.77/4.00 
@@ -44,27 +44,34 @@ Work experience
 **Rooyesh English Language Institute**, Esfahan, Iran (May 2014 -- Dec 2018)
 
 *English Language Instructor*
-* Assemble and configure computer components and troubleshoot their technical issues.
-* Design and develop a wide range of professional websites and investigate new techniques to improve website initiatives.
-* Conduct various research to perform insightful analytics on large datasets to increase the data processing efficiency.
+* Teaching assistant for listening and reading skills.
+* Speaking class for children and teenagers.
+* Examiner for the Writing tests.
 
-**Sabic Company**, Esfahan, Iran (Feb 2017 -- Sep 2019)
+**Faraz Pouya Faal Company**, Esfahan, Iran (Jun 2013 -- Aug 2013)
 
-*Research Assistant and Computer Technician*
-* Assemble and configure computer components and troubleshoot their technical issues.
-* Design and develop a wide range of professional websites and investigate new techniques to improve website initiatives.
-* Conduct various research to perform insightful analytics on large datasets to increase the data processing efficiency.
-
-
-
+*Electrical Engineering Technician*
+* Trouble shooting and repairing the electronic elevator boards.
+* Participated in installing the components of the elevator.
 
   
 Skills
 -----------
-* Technical: 5G Log/IQ Analysis
-* Programming: MATLAB, Python
-* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
+* Programming Languages: Python, MATLAB, C++, Rapidminer, Weka, PLC, R
+* Simulation and Analysis Software: Tableau
+* Engineering Software and modeling: AutoCad
+* Other Softwares: LATEX, Microsoft Word/PowerPoint/Excel/Visio  
+
   
-Teaching
+Academic Courses
 -----------
-I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including Stochastic Signals and Systems, Signals and Systems, Communication Systems I, Engineering Probability and Statistics, Electrical Circuits Laboratory, and Technical English.
+* [Spring 2024] Security in Networks, Clemson University, Dr. Long Cheng, **4.00/4.00**
+* [Fall 2023] Advanced Machine Learning, Clemson University, Dr. Kai Liu, **4.00/4.00**
+* [Fall 2023] Software Engineering, Clemson University, Dr. Paige Rodeghero, **4.00/4.00**
+* [Spring 2022] Deep Learning, Clemson University, Dr. Feng Luo, **4.00/4.00**
+* [Spring 2022] AI in Autonomous Vehicles, Clemson University, Dr. Abolfazl Razi, **4.00/4.00**
+* [Fall 2022] Artificial Intelligence, Clemson University, Dr. Abolfazl Razi, **4.00/4.00**
+* [Fall 2020] Pattern Recognition, Istanbul Aydin University, Prof. Naim Ajlouni, **4.00/4.00**
+* [Fall 2020] Optimization, Istanbul Aydin University, Dr. Elnaz Pashaei, **4.00/4.00**
+* [Spring 2020] Machine Learning, Istanbul Aydin University, Dr. Ilknur Donmez, **4.00/4.00**
+* [Spring 2020] Data Mining, Istanbul Aydin University, Dr. Elnaz Pashaei, **4.00/4.00**
