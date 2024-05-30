@@ -19,6 +19,31 @@ Publications
 
 
 
+[2] [Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication](https://arxiv.org/abs/2404.08013), Published in IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT).
+
+**Abstract:** Sharing and joint processing of camera feeds and sensor measurements, known as Cooperative Perception (CP), has emerged as a new technique to achieve higher perception qualities. CP can enhance the safety of Autonomous Vehicles (AVs) where their individual visual perception quality is compromised by adverse weather conditions (haze as foggy weather), low illumination, winding roads, and crowded traffic. To cover the limitations of former methods, in this paper, we propose a novel approach to realize an optimized CP under constrained communications. At the core of our approach is recruiting the best helper from the available list of front vehicles to augment the visual range and enhance the Object Detection (OD) accuracy of the ego vehicle. In this two-step process, we first select the helper vehicles that contribute the most to CP based on their visual range and lowest motion blur. Next, we implement a radio block optimization among the candidate vehicles to further improve communication efficiency. We specifically focus on pedestrian detection as an exemplary scenario. To validate our approach, we used the CARLA simulator to create a dataset of annotated videos for different driving scenarios where pedestrian detection is challenging for an AV with compromised vision. Our results demonstrate the efficacy of our two-step optimization process in improving the overall performance of cooperative perception in challenging scenarios, substantially improving driving safety under adverse conditions. Finally, we note that the networking assumptions are adopted from LTE Release 14 Mode 4 side-link communication, commonly used for Vehicle-to-Vehicle (V2V) communication. Nonetheless, our method is flexible and applicable to arbitrary V2V communications.
+
+**Recommended Citation:** @article{sarlak2024enhanced,
+  title={Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication},
+  author={Sarlak, Ahmad and Alzorgan, Hazim and Boroujeni, Sayed Pedram Haeri and Razi, Abolfazl and Amin, Rahul},
+  journal={arXiv preprint arXiv:2404.08013},
+  year={2024}
+}
+
+**Download Paper Here:** [[PDF](http://pedramhaeri.github.io/files/Paper3.pdf)] [[Springer](https://arxiv.org/abs/2402.03118)]
+
+
+
+
+
+
+
+
+
+
+
+
+
 [2] [A Comprehensive Survey of Research Towards AI-enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management](https://www.sciencedirect.com/science/article/pii/S1566253524001477), Published in Information Fusion Journal, Elsevier, IF:18.6 (Q1), August 2024.
 
 **Abstract:** Wildfires have emerged as one of the most destructive natural disasters worldwide, causing catastrophic losses. These losses have underscored the urgent need to improve public knowledge and advance existing techniques in wildfire management. Recently, the use of Artificial Intelligence (AI) in wildfires, propelled by the integration of Unmanned Aerial Vehicles (UAVs) and deep learning models, has created an unprecedented momentum to implement and develop more effective wildfire management. Although existing survey papers have explored learning-based approaches in wildfire, drone use in disaster management, and wildfire risk assessment, a comprehensive review emphasizing the application of AI-enabled UAV systems and investigating the role of learning-based methods throughout the overall workflow of multi-stage wildfire management, including pre-fire (e.g., vision-based vegetation fuel measurement), active-fire (e.g., fire growth modeling), and post-fire tasks (e.g., evacuation planning) is notably lacking. This survey synthesizes and integrates state-of-the-science reviews and research at the nexus of wildfire observations and modeling, AI, and UAVs — topics at the forefront of advances in wildfire management, elucidating the role of AI in performing monitoring and actuation tasks from pre-fire, through the active-fire stage, to post-fire management. To this aim, we provide an extensive analysis of the existing remote sensing systems with a particular focus on the UAV advancements, device specifications, and sensor technologies relevant to wildfire management. We also examine the pre-fire and post-fire management approaches, including fuel monitoring, prevention strategies, as well as evacuation planning, damage assessment, and operation strategies. Additionally, we review and summarize a wide range of computer vision techniques in active-fire management, with an emphasis on Machine Learning (ML), Reinforcement Learning (RL), and Deep Learning (DL) algorithms for wildfire classification, segmentation, detection, and monitoring tasks. Ultimately, we underscore the substantial advancement in wildfire modeling through the integration of cutting-edge AI techniques and UAV-based data, providing novel insights and enhanced predictive capabilities to understand dynamic wildfire behavior.
