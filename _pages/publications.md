@@ -18,4 +18,4 @@ Published in 11th ICCKE IEEE Conference, Iran, 2022.
 
 **Recommended Citation:** Mehrabi, Niloufar, and Sayed Pedram Haeri Boroujeni. "Age estimation based on facial images using hybrid features and particle swarm optimization." 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE). IEEE, 2021. 
 
-[[Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119575795.ch9)] [[IEEE Xplore]
+[[PDF](http://pedramhaeri.github.io/files/Paper1.pdf)] [[IEEE Xplore]
