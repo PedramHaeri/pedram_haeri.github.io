@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Hello there, Welcome to my personal website!
 
-Since 2022, I have been a 2nd year Ph.D. student in Computer Science at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in Artificial Intelligence and Data Science from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering.
+I am currently a 2nd year Ph.D. student as a Research Assistant in [Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in [Artificial Intelligence and Data Science](https://ebs.aydin.edu.tr/index.iau?Page=BolumGenelBilgiler&BK=1197&ln=tr) from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering.
 
 
 Research Interests
