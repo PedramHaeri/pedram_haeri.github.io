@@ -5,7 +5,7 @@ permalink:
 author_profile: true
 ---
 
-You can download the certificate [here](Certificate.pdf).
+You can download my certificate [here](Certificate.pdf).
 -----------
 * [spring 2024] Invited Reviewers to Expert Systems with Applications Journal, Elsevier, IF:8.66 (Q1), Total **[26 Papers]**
 * [spring 2024] Invited Reviewers to Trees, Forests and People Journal, Elsevier, IF:2.70 (Q1), Total **[1 Paper]**
