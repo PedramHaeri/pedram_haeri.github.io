@@ -36,7 +36,7 @@ Applications
 7. Robotics
 
 
-News
+Honers & Awards
 ======
 * [Fall 2023] Received 1K$ **grant** for the Cloud Communication Workshop, Georgia Tech IEEE ComSoc Atlanta, USA.
 * [Spring 2023] Received 2K$ **grant** for the Network Communication Workshop, Boston University NSF MERIF Boston, USA.
@@ -45,3 +45,18 @@ News
 * [Fall 2022] Ranked 1st GPA and **most honored student** among the graduated students, Artificial Intelligence, Istanbul Aydin University, Turkey.
 * [Fall 2020] Received **scholarship** for the M.Sc. Program, Artificial Intelligence and Data Science, Istanbul Ayding University, Turkey.
   
+
+Honers & Awards
+======
+* [Spring 2024] **Conference Paper Accepted** "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication" in IEEE DCOSS-IoT Conference.
+* [Spring 2024] **Journal Paper Accepted** "A Comprehensive Survey of Research Towards AI-enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management" in Information Fusion Journal (IF:18.6).
+
+
+
+
+
+
+
+
+
+
