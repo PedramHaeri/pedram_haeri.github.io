@@ -13,7 +13,7 @@ Education
 -----------
 **Clemson University**, SC, USA (Aug 2022 -- Present)
 
-*Doctor of Philosophy (Ph.D.) in Computer Science* -- Research Assistant
+*Doctor of Philosophy (Ph.D.) in Computer Science -- Research Assistant*
 * Research Works: Machine Learning and Deep Learning Techniques with Applications to The Autonomous Vehicles and Forest Fire Monitoring and Detection.
 * Advisor: [Dr. Abolfazl Razi](https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en)
 * GPA: 4.00/4.00 
