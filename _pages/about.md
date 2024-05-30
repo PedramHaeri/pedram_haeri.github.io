@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Welcome to my personal website!
+Hello there, Welcome to my personal website!
 
-I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working with [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546) and [Jianming Zhu](https://www.linkedin.com/in/jianming-zhu-95228b61/). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a 2nd year Ph.D. student in the [Department of Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
