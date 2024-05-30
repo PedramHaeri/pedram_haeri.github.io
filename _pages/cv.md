@@ -25,7 +25,7 @@ Education
 * Advisor: [Dr. Elnaz Pashaei](https://scholar.google.com/citations?user=Kt2E9GMAAAAJ&hl=en)
 * GPA: 3.77/4.00 
 
-**Islamic Azad Universityy**, Esfahan, Iran (Sep 2015 -- Nov 2018)
+**Islamic Azad University**, Esfahan, Iran (Sep 2015 -- Nov 2018)
 
 *Master of Science (M.Sc.) in Electrical Engineering -- Teacher Assistant* 
 * Research Works: Design and Simulation of a STTRAM Memory Cell for Low Power Application.
