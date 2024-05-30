@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Hello there, Welcome to my personal website!
 
-I am currently a 2nd year Ph.D. student in the [Department of Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+Since 2022, I have been a 2nd year Ph.D. student in Computer Science at [Clemson University](https://www.clemson.edu/index.html) under the supervision of [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in Artificial Intelligence and Data Science from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering.
 
 
 Research Interests
