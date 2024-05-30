@@ -46,10 +46,11 @@ Honers & Awards
 * [Fall 2020] Received **scholarship** for the M.Sc. Program, Artificial Intelligence and Data Science, Istanbul Ayding University, Turkey.
   
 
-Honers & Awards
+News
 ======
-* [Spring 2024] **Conference Paper Accepted** "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication" in IEEE DCOSS-IoT Conference.
+* [Spring 2024] **Conference Paper Accepted** "[Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication](https://arxiv.org/abs/2404.08013)" in IEEE DCOSS-IoT Conference.
 * [Spring 2024] **Journal Paper Accepted** "A Comprehensive Survey of Research Towards AI-enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management" in Information Fusion Journal (IF:18.6).
+* [Spring 2024] **Journal Paper Accepted** "IC-GAN: An Improved Conditional Generative Adversarial Network for RGB-to-IR Image Translation with Applications to Forest Fire Monitoring" in Expert Systems with Applications Journal (IF:18.6).
 
 
 
