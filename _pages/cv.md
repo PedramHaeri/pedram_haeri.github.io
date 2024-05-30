@@ -11,24 +11,29 @@ You can download my CV [here](CV.pdf).
 
 Education
 -----------
-**Clemson University**, Clemson, SC, USA (Aug 2022 -- Present)
+**Clemson University**, SC, USA (Aug 2022 -- Present)
 
-*Doctor of Philosophy in Computer Science*
+*Doctor of Philosophy (Ph.D.) in Computer Science*
 * Research Works: Machine Learning and Deep Learning Techniques with Applications to The Autonomous Vehicles and Forest Fire Monitoring and Detection.
 * Advisor: [Dr. Abolfazl Razi](https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en)
 * GPA: 4.00/4.00 
 
-**University of Tehran**, Tehran, Iran (Sep. 2012 -- Sep. 2014)
+**Instanbul Aydin University**, Istanbul, Turkey (Feb 2020 -- Feb 2022)
 
-*Master of Science in Electrical Engineering -- Communication Systems*
-* Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
-* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)
+*Master of Science (M.Sc.) in Artificial Intelligence and Data Science*
+* Research Works: Machine Learning Techniques including Data Clustering and Gene Selection in The Filed of Bioinformatics and Image Processing.
+* Advisor: [Dr. Elnaz Pashaei](https://scholar.google.com/citations?user=Kt2E9GMAAAAJ&hl=en)
+* GPA: 3.77/4.00 
 
-**University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
+**Islamic Azad Universityy**, Esfahan, Iran (Sep 2015 -- Nov 2018)
 
-*Bachelor of Science in Electrical Engineering -- Telecommunications*
-* Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
-* Project: [Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)
+*Master of Science (M.Sc.) in Electrical Engineering*
+* Research Works: Design and Simulation of a STTRAM Memory Cell for Low Power Application.
+* GPA: 3.84/4.00 
+
+
+
+
 
 Work experience
 -----------
