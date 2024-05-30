@@ -12,22 +12,19 @@ You can download my CV [here](CV.pdf).
 Education
 -----------
 **Clemson University**, SC, USA (Aug 2022 -- Present)
-
-*Doctor of Philosophy (Ph.D.) in Computer Science* Research Assistant
+*Doctor of Philosophy (Ph.D.) in Computer Science -- Research Assistant*
 * Research Works: Machine Learning and Deep Learning Techniques with Applications to The Autonomous Vehicles and Forest Fire Monitoring and Detection.
 * Advisor: [Dr. Abolfazl Razi](https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en)
 * GPA: 4.00/4.00 
 
 **Instanbul Aydin University**, Istanbul, Turkey (Feb 2020 -- Feb 2022)
-
-*Master of Science (M.Sc.) in Artificial Intelligence and Data Science* -- Research Assistant
+*Master of Science (M.Sc.) in Artificial Intelligence and Data Science -- Research Assistant*
 * Research Works: Machine Learning Techniques including Data Clustering and Gene Selection in The Filed of Bioinformatics and Image Processing.
 * Advisor: [Dr. Elnaz Pashaei](https://scholar.google.com/citations?user=Kt2E9GMAAAAJ&hl=en)
 * GPA: 3.77/4.00 
 
 **Islamic Azad Universityy**, Esfahan, Iran (Sep 2015 -- Nov 2018)
-
-*Master of Science (M.Sc.) in Electrical Engineering* -- Teacher Assistant 
+*Master of Science (M.Sc.) in Electrical Engineering -- Teacher Assistant* 
 * Research Works: Design and Simulation of a STTRAM Memory Cell for Low Power Application.
 * GPA: 3.84/4.00 
 
@@ -35,7 +32,7 @@ Education
 Work experience
 -----------
 **Sabic Company**, Esfahan, Iran (Feb 2017 -- Sep 2019)
-Research Assistant and Computer Technician
+*Research Assistant and Computer Technician*
 * Assemble and configure computer components and troubleshoot their technical issues.
 * Design and develop a wide range of professional websites and investigate new techniques to improve website initiatives.
 * Conduct various research to perform insightful analytics on large datasets to increase the data processing efficiency
