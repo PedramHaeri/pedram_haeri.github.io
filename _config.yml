@@ -84,32 +84,32 @@ author:
   avatar           : "profile.png"
   bio              : "Research Assistant <br/> Ph.D. | Clemson University <br/> Computer Science <br/> AI & Data Science"
   location         : "Clemson, SC, USA"
-  employer         : "Clemson University"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1"
-  email            : "mbanagar@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=RL_CijgAAAAJ&hl=en&oi=ao"
+  email            : "shaerib@g.clemson.edu"
+  researchgate     : "https://www.researchgate.net/profile/Sayed-Pedram-Haeri"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "MorBeh142"
+  facebook         : 
   foursquare       :
-  github           : "mbanagar"
+  github           : "PedramHaeri"
   google_plus      :
   keybase          :
-  instagram        : "MorBeh142"
+  instagram        : "Pedram_Haeri"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mortezabanagar"
-  orcid            : "http://orcid.org/0000-0001-5977-9897"
+  linkedin         : "https://www.linkedin.com/in/sayed-pedram-haeri-6484a8172/"
+  orcid            : "https://orcid.org/0000-0002-7913-1147"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MorBeh142"
+  twitter          : #"MorBeh142"
   vine             :
   weibo            :
   xing             :
