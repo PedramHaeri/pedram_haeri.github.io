@@ -10,7 +10,7 @@ redirect_from:
 ---  
 
 
-I am currently a 2nd year Ph.D. student and a Research Assistant in [Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html), supervised by [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in [Artificial Intelligence and Data Science](https://ebs.aydin.edu.tr/index.iau?Page=BolumGenelBilgiler&BK=1197&ln=tr) from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering. For any questions, please feel free to reach out to me by email at **shaerib@g.clemson.edu**.
+I am currently a 2nd year Ph.D. student and a Research Assistant in [Computer Science](https://www.clemson.edu/cecas/departments/computing/) at [Clemson University](https://www.clemson.edu/index.html), supervised by [Dr. Abolfazl Razi](https://arazi.people.clemson.edu). I received my 2nd M.Sc. degree in [Artificial Intelligence and Data Science](https://ebs.aydin.edu.tr/index.iau?Page=BolumGenelBilgiler&BK=1197&ln=tr) from [Istanbul Aydin University](https://www.aydin.edu.tr/en-us/Pages/default.aspx) under the supervision of [Dr. Elnaz Pashaei](https://medicine.iu.edu/faculty/63502/pashaei-elnaz) from 2020 to 2022. Additionally, I received my 1st M.Sc. and B.Sc. degrees in Electrical Engineering. For any questions, please feel free to reach out to me by email at **[shaerib@g.clemson.edu]**.
 
 
 Research Interests
